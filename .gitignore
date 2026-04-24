@@ -1,0 +1,6 @@
+# Cursor / local agent
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
